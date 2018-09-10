@@ -1,0 +1,7 @@
+.idea/
+dataset/*
+.venv/
+preprocessing/slices/*
+spectrograms/*
+
+test/*
