@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/shubham/Projects/machine-learning-projects/music-genre-classification/libs/../data/model/fmaDNN.tflearn"
+all_model_checkpoint_paths: "/Users/shubham/Projects/machine-learning-projects/music-genre-classification/libs/../data/model/fmaDNN.tflearn"
