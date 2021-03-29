@@ -78,7 +78,7 @@ protobuf==3.5.2.post1
 ptyprocess==0.5.2
 pycodestyle==2.4.0
 pycparser==2.18
-Pygments==2.2.0
+Pygments==2.7.4
 pylint==1.8.4
 pyparsing==2.2.0
 python-dateutil==2.7.2
