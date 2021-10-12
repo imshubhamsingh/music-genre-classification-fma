@@ -63,7 +63,7 @@ networkx==2.1
 notebook==5.4.1
 numba==0.37.0
 numpy==1.14.2
-opencv-contrib-python==3.4.0.12
+opencv-contrib-python==4.2.0.32
 opencv-python==3.4.0.12
 pandas==0.22.0
 pandocfilters==1.4.2
