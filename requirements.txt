@@ -57,7 +57,7 @@ matplotlib==2.2.2
 mccabe==0.6.1
 mistune==0.8.3
 music21==5.1.0
-nbconvert==5.3.1
+nbconvert==6.3.0
 nbformat==4.4.0
 networkx==2.1
 notebook==5.4.1
